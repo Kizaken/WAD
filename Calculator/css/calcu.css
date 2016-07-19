@@ -1,0 +1,188 @@
+
+#calcu{
+	position: relative;
+	width: 400px;
+	height: 400px;
+	border-color: #ffffff;
+	border-style: ridge;
+	background-color: white;
+	box-shadow: 1px 1px 20px #f29237;
+	padding-top: 20px;
+	margin:auto;
+
+
+}
+
+.answer{
+	
+	width: 85%;
+	background-color: #ffffff;
+	border-style: solid;
+	border-width: 5pt;
+	border-color: #f29237;
+	height: 50px;
+	padding: 20px 5px 0px 20px;
+	margin-left: 13px;
+	line-height: 35px;
+	color: orange;
+	font-weight: bolder;
+	font-size: 50pt;
+	overflow: hidden;
+	font-family: SAO UI, roboto;
+
+
+}
+
+button{
+	position: absolute;
+	width: 85px;
+	height: 60px;
+	color: white;
+	font-family: SAO UI,roboto;
+	line-height: 10px;
+	font-size: 23pt;
+	font-weight: bolder;
+	background-color: #f29237;	
+	
+
+}
+#all_btn{
+	position: relative;
+	margin-top: 20px;
+}
+.answer input{
+	position: absolute;
+	width: 76%;
+	height: 10px;
+	background-color: #ffffff;
+	border-style: solid;
+	border-width: 5pt;
+	border-color: #f29237;
+	height: 50px;
+	padding: 20px 5px 0px 20px;
+	margin-left: -8px;
+	margin-top: -10px;
+	line-height: 35px;
+	color: orange;
+	font-weight: bolder;
+	font-size: 30pt;
+	overflow: hidden;
+	font-family: SAO UI, roboto;
+	
+	text-align: right;
+
+
+
+
+}
+
+#name p{
+	float: left;
+	margin: -15px 0px 0px 14px;
+	font-family: SAO UI, Roboto;
+	color: #f29237;
+
+}
+
+
+.button:hover{
+	color: #f29237;
+	background-color: white;
+
+}
+
+#b_dot{
+
+	margin: 200px 0px 0px 20px;
+}
+ 
+#b0 {
+	margin: 200px 0px 0px 106px;
+}
+#b_ans {
+	margin: 200px 0px 0px 193px;
+}
+
+#b1 {
+	margin: 140px 0px 0px 20px;
+}
+#b2 {
+	margin: 140px 0px 0px 106px;
+	
+}
+#b3 {
+	margin: 140px 0px 0px 193px;
+	
+}
+#b4 {
+	margin: 80px 0px 0px 20px;
+}
+#b5 {
+	margin: 80px 0px 0px 106px;
+	
+}
+#b6 {
+	margin: 80px 0px 0px 193px;
+	
+}
+
+#b7 {
+	margin: 20px 0px 0px 20px;
+}
+#b8{
+	margin: 20px 0px 0px 106px;
+	
+}
+#b9 {
+	margin: 20px 0px 0px 193px;
+	
+}
+
+#b_plus {
+	margin: 20px 0px 0px 280px;
+	font-weight: bolder;
+	font-size: 50pt;
+	height: 90px;
+	width: 50px;
+}
+
+#b_minus {
+	margin: 20px 0px 0px 330px;
+	font-weight: bolder;
+	font-size: 50pt;
+	height: 90px;
+	width: 50px;
+}
+
+#b_multi {
+	margin: 110px 0px 0px 280px;
+	font-weight: bolder;
+	font-size: 50pt;
+	height: 90px;
+	width: 50px;
+	padding-top: 35px;
+	
+}
+
+#b_divide {
+	margin: 110px 0px 0px 330px;
+	font-weight: bolder;
+	font-size: 50pt;
+	height: 90px;
+	width: 50px;
+	padding-top: 15px;
+	
+}
+#b_cls {
+	margin: 200px 0px 0px 280px;
+	width: 100px;
+}
+
+#made_by em{
+
+	position: absolute;
+	margin: 270px 0px 0px 323px;
+	color: #f29237;
+
+
+}
