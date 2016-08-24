@@ -1,3 +1,4 @@
+
 function c(val)
 {
 document.getElementById("display").value=val;
@@ -14,6 +15,9 @@ try
 } 
 catch(e) 
 {
-  c('Error') 
+  c('Error')
+
 } 
-}  
+
+}
+
